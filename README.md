@@ -1,0 +1,2 @@
+# utl_trying_to_do_too_much_with_proc_tabulate
+Trying to do too much with proc tabulate. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
